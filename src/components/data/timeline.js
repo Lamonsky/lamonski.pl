@@ -4,7 +4,7 @@ export default [
         title: 'Studia',
         duration: '2 lata',
         company: 'WSB-NLU',
-        details: 'Po zacząciu pracy pokusiłem się o zapisanie na studia informatyczne na których jestem już na 6. semestrze. Jako specjalizację wybrałem "Programowanie aplikacji biurowych", ponieważ wydaje mi się że to jest kierunek na którym nauczę się jak najwięcej nowych rzeczy które pomogą mi w rozwijaniu się w gałęzi informatyki która sprawia mi największą frajdę',
+        details: 'Po rozpoczęciu pracy pokusiłem się o zapisanie na studia informatyczne na których jestem już na 6. semestrze. Jako specjalizację wybrałem "Programowanie aplikacji biurowych", ponieważ wydaje mi się że to jest kierunek na którym nauczę się jak najwięcej nowych rzeczy które pomogą mi w rozwijaniu się w gałęzi informatyki która sprawia mi największą frajdę',
     },
     {
         year: 'Do dziś',
